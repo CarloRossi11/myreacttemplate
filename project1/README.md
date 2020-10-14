@@ -1,11 +1,3 @@
-to add a new project:
-npx degit CarloRossi11/myreactapp (projectname)
-
-
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
